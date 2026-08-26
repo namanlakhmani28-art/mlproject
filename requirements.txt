@@ -1,0 +1,5 @@
+pandas
+umpy
+seaborn
+
+-e .
